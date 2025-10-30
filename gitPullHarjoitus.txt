@@ -1,1 +1,0 @@
-Harjoittelen git pull ominaisuutta.
