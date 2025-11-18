@@ -1,4 +1,3 @@
 # ohtuvarasto
-[![GHA workflow badge](https://github.com/oliverk2004/ohtuvarasto/workflows/CI/badge.svg)](https://github.com/oliverk2004/miniprojekti\_ryhma1/actions)
+[![GHA workflow badge](https://github.com/oliverk2004/ohtuvarasto/workflows/CI/badge.svg)](https://github.com/oliverk2004/ohtuvarasto/actions)
 [![codecov](https://codecov.io/github/oliverk2004/ohtuvarasto/graph/badge.svg?token=2PB46227IY)](https://codecov.io/github/oliverk2004/ohtuvarasto)
-[![codecov](https://codecov.io/github/oliverk2004/miniprojekti\_ryhma1/graph/badge.svg?token=2PB46227IY)](https://codecov.io/github/oliverk2004/miniprojekti\_ryhma1)
